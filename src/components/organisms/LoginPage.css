@@ -1,0 +1,27 @@
+.mainDiv {
+    background-image: url('https://browsecat.net/sites/default/files/login-backgrounds-128292-582669-5455043.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.mainForm {
+    /* margin-top: 10%; */
+    padding-top: 17%;
+}
+
+.avatar {
+    padding-top: 21%;
+    padding-left: 10%;
+}
+
+.loginBtn {
+    margin: 5%;
+    background-color: #000080;
+}
+
+/* Registration Page CSS :  */
+.mainFormRegistration {
+    padding-top: 4%;
+    max-width: 40%;
+}
